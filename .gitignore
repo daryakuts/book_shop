@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальное окружение
+.venv/
+venv/
+.env/
+
+# Переменные окружения (секреты!)
+.env
+
+# PyCharm
+.idea/
+*.iml
+
+# Базы данных
+*.db
+*.sqlite3
+
+# Логи
+*.log
